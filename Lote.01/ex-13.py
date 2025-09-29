@@ -1,4 +1,5 @@
-print("Vamos descobrir quantos dias vai durar uma quantidade de alimento para uma pessoa que come 50g por dia.")
+#Vamos descobrir quantos dias vai durar uma quantidade 
+#de alimento para uma pessoa que consome 50g por dia
 
 quilos: float
 dias: float

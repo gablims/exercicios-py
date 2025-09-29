@@ -1,4 +1,4 @@
-print("Vamos descobrir o volume de um paralelepípedo.")
+#Vamos descobrir o volume de um paralelepípedo
 
 comprimento = float(input("Digite o valor do comprimento de seu paralelepípedo: "))
 altura = float(input("Digite o valor da altura de seu paralelepípedo: "))

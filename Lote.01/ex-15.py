@@ -1,5 +1,5 @@
 import math
-print("Vamos calcular a hipotenusa de um triângulo retângulo?")
+#Vamos calcular a hipotenusa de um triângulo retângulo?
 
 catetoUm: float
 catetoDois: float

@@ -1,4 +1,4 @@
-print("Vamos descobrir a soma entre dois números.")
+#Vamos descobrir a soma entre dois números ao quadrado?
 
 numeroUm = float(input("Digite o valor do primeiro número: "))
 numeroDois = float(input("Digite o valor do segundo número: "))

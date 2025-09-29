@@ -1,6 +1,7 @@
-print("Qual será que seria o seu salário se houvesse um reajuste de 15%? Vamos descobrir?")
+#Qual será que seria o seu salário se houvesse um reajuste de 15%? 
+# Vamos descobrir?
 
-salario = float(input("Digite o valor de salário: "))
+salario = float(input("Digite o valor do salário: "))
 
 novoSalario = salario * 1.15
 

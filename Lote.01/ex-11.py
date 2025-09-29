@@ -1,4 +1,5 @@
-print("Tendo apenas o raio de uma circunferência, vamos ver qual o comprimento dela?")
+#Tendo apenas o raio de uma circunferência, 
+#vamos ver qual o comprimento dela?
 
 raio = float(input("Digite  valor do raio da circunferência: "))
 

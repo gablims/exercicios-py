@@ -1,4 +1,4 @@
-print("Vamos calcular a área de um quadrado?")
+#Vamos calcular a área de um quadrado?
 
 lado = float(input("Digite o valor do lado do quadrado: "))
 

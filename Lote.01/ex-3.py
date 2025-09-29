@@ -1,4 +1,4 @@
-print("Vamos descobrir a área de um triângulo?")
+#Vamos descobrir a área de um triângulo?
 
 base = float(input("Digite o valor da base do triângulo: "))
 altura = float(input("Digite o valor da altura de seu triângulo: "))

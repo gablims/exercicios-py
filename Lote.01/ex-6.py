@@ -1,4 +1,4 @@
-print("Vamos efetuar a troca de dois valores diferentes e ver os valores finais.")
+#Vamos efetuar a troca de dois valores diferentes e ver os valores finais
 
 X = float(input("Digite o valor de X:"))
 Y = float(input("Digite o valor de Y:"))
