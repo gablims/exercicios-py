@@ -1,5 +1,6 @@
 #Vamos descobrir quantos dias vai durar uma quantidade 
 #de alimento para uma pessoa que consome 50g por dia
+#Gabriella da Silva
 
 quilos: float
 dias: float

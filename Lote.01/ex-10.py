@@ -1,4 +1,5 @@
-#Vamos descobrir a diferença entre dois números
+#Vamos descobrir a diferença entre dois números.
+#Gabriella da Silva
 
 numeroUm = float(input("Digite o valor do primeiro número: "))
 numeroDois = float(input("Digite o valor do segundo número: "))

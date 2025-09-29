@@ -1,5 +1,6 @@
 import math
 #Vamos calcular a hipotenusa de um triângulo retângulo?
+#Gabriella da Silva
 
 catetoUm: float
 catetoDois: float
