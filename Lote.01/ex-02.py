@@ -1,8 +1,7 @@
-#Qual será que seria o seu salário se houvesse um reajuste de 15%? 
-# Vamos descobrir?
+#Qual será que seria o seu salário se houvesse um reajuste de 15%? Vamos descobrir?
 #Gabriella da Silva
 
-salario = float(input("Digite o valor do salário: "))
+salario = float(input("Digite o valor de salário: "))
 
 novoSalario = salario * 1.15
 

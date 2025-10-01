@@ -1,15 +1,14 @@
-#Receba um valor inteiro e mostre se ele é divisível por 2 e 3.
+#Receba um valor inteiro e verifique se é divisível por 3 e 2.
 #Gabriella da Silva
 
-valor = int(input("Digite um valor inteiro: "))
+Num = int(input("Digite um número inteiro: "))
 
-if valor % 2 == 0:
-    print("O valor é divisível por 2" )
-else: 
-    print("O valor não é divisível por 2")
+if Num % 3 == 0:
+    print("O número é divisível por 3")
+else:
+    print("O número não é divisível por 3")
 
-if valor % 3 == 0:
-    print ("O valor é divisível por 3")
-else: 
-    print("O valor não é divisível por 3")
-
+if Num % 2 == 0:
+    print("O número é divisível por 2")
+else:
+    print("O número não é divisível por 2")

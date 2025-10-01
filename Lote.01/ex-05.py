@@ -1,7 +1,5 @@
 import math
-
-#Considerando que uma equação tem duas raízes,
-#vamos calcular e descobrir quais são os valores de suas raízes
+#Considerando que uma equação tem duas raízes, vamos calcular e descobrir quais são os valores de suas raízes.
 #Gabriella da Silva
 
 A = float(input("Digite o valor de A: "))

@@ -1,4 +1,4 @@
-#Vamos descobrir a soma entre dois números ao quadrado?
+#Vamos descobrir a soma entre dois números.
 #Gabriella da Silva
 
 numeroUm = float(input("Digite o valor do primeiro número: "))

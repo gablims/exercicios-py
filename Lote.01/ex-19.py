@@ -1,16 +1,12 @@
-#Receba dois valores, calcule e mostre o maior deles.
+#Receba dois valores reais, calcule e mostre o maior deles.
 #Gabriella da Silva
 
-valor1 = float(input("Digite o primeiro valor: "))
-valor2 = float(input("Digite o segundo valor: "))
+Num1 = float(input("Digite um número real: "))
+Num2 = float(input("Digite outro número real: "))
 
-if valor1 > valor2:
-    maior = valor1
-elif valor1 == valor2:
-    maior = "Os dois valores são iguais"
-elif valor1 < valor2:
-    maior = valor2
+if Num1 > Num2:
+    maior = Num1
 else:
-    maior = "Erro! Não foi possível identificar o maior valor"
+    maior = Num2
 
-print("O maior valor é: ", maior)
+print("O maior número é:", maior)

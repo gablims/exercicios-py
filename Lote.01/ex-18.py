@@ -1,16 +1,15 @@
 #Receba dois valores inteiros, calcule e mostre a diferença do maior pelo menor.
 #Gabriella da Silva
 
-valor1 = int(input("Digite o primeiro valor: "))
-valor2 = int(input("Digite o segundo valor: "))
+Num1 = int(input("Digite um número inteiro: "))
+Num2 = int(input("Digite outro número inteiro: "))
 
-if valor1 > valor2:
-     diferenca = valor1 - valor2
-elif valor1 == valor2:
-    diferenca = 0
-elif valor1 < valor2:
-    diferenca = valor2 - valor1
+if Num1 > Num2:
+    maior = Num1
+    menor = Num2
 else:
-    diferenca = "Erro! Não foi possível identificar a diferença"
+    maior = Num2
+    menor = Num1
 
-print("A diferença do maior pelo menor é: ", diferenca)
+diferenca = maior - menor
+print("A diferença do maior pelo menor é:", diferenca)

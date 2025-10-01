@@ -1,5 +1,5 @@
-#Vamos calcular o valor de um depósito após um mês de rendimento?
-#Gabriella da Silva
+#
+# Gabriella da Silva
 
 deposito: float
 rendimento: float

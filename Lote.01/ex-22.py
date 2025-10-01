@@ -1,16 +1,10 @@
-#Receba dois valores inteiros e diferentes, mostre-os em ordem crescente.
+#Receba dois valores inteiros e diferentes. Mostre-os em ordem crescente.
 #Gabriella da Silva
 
-Valor1 = int(input("Digite o primeiro valor: "))
-Valor2 = int(input("Digite o segundo valor: "))
+Num1 = int(input("Digite um número inteiro: "))
+Num2 = int(input("Digite outro número inteiro: "))
 
-if Valor1 < Valor2:
-   crescente = Valor1, Valor2
-elif Valor1 == Valor2:
-    crescente = "Os dois valores são iguais"
-elif Valor1 > Valor2:
-    crescente = Valor2, Valor1
+if Num1 < Num2:
+    print("Os números em ordem crescente são:", Num1, ",", Num2)
 else:
-    crescente = "Erro! Não há uma ordem crescente" 
-
-print("Os valores em ordem crescente são: ", crescente)
+    print("Os números em ordem crescente são:", Num2, ",", Num1)

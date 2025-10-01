@@ -1,5 +1,5 @@
 #Vamos calcular a área de um quadrado?
-#Gabriella da Silva
+#Gabriella da Silva 
 
 lado = float(input("Digite o valor do lado do quadrado: "))
 

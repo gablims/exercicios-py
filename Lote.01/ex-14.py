@@ -1,9 +1,9 @@
-#Vamos calcular o terceiro angulo de um triângulo, dado os outros dois.
+#Calcule o valor do 3° ângulo de um retângulo, já tendo dois ângulos.
 #Gabriella da Silva
 
 anguloUm = float(input("Digite o valor do primeiro ângulo: "))
 anguloDois = float(input("Digite o valor do segundo ângulo: "))
 
-anguloTres = (anguloUm + anguloDois) - 180 
+anguloTres = 180 - (anguloUm + anguloDois)
 
-print("O valor do terceiro ângulo é: ", anguloTres) 
+print("O valor do terceiro ângulo é: ", anguloTres)
