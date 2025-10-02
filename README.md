@@ -7,7 +7,7 @@ O repositório contém a lista de exercícios do professor Satoshi em *Python* (
 -Modularização 
 -Entrada e saída de dados
 
-## Lote 1.1
+## Lote 01
 Exercícios 01 ao 45.
 ## Lote 1.2
 Exercícios 16 ao 45 em modularização. 
