@@ -10,4 +10,4 @@ O repositório contém a lista de exercícios do professor Satoshi em *Python* (
 ## Lote 1.1
 Exercícios 01 ao 45.
 ## Lote 1.2
-Exercícios 16 ao 45 em modularização.
+Exercícios 16 ao 45 em modularização. 
